@@ -21,7 +21,7 @@ repository               : "bratjay01/bratjay01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Bharath.png"
+  avatar           : "Bharath.jpg"
   name             : "Bharath krishna Ramnarayan Babu"
   pronouns         : # example: "she/her"  
   bio              : "Automotive technology and computer vision"
